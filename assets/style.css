@@ -1777,6 +1777,7 @@ header .main-menu nav ul li:last-child a {
 }
 .slider-area .bx-wrapper .bx-controls .bx-controls-direction a.bx-prev {
   left: 50px;
+  display: none;
 }
 .slider-area .bx-wrapper .bx-controls .bx-controls-direction a.bx-prev:before {
   content: "\f104";
@@ -1803,6 +1804,7 @@ header .main-menu nav ul li:last-child a {
 }
 .slider-area .bx-wrapper .bx-controls .bx-controls-direction a.bx-next {
   right: 50px;
+  display: none;
 }
 .slider-area .bx-wrapper .bx-controls .bx-controls-direction a.bx-next:before {
   content: "\f105";
